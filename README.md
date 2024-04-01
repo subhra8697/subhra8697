@@ -1,6 +1,7 @@
-<p align="center"><img width="100%" alt="Hello, I'm Shubhra. I do open source!" src="./images/Pink & Blue Futuristic Gaming Channel Youtube Intro.gif" /></p>
+<p align="center"><img width="100%" alt="Hello, I'm Shubhra. I do open source!" src="./images/bannerImage.gif" /></p>
 
-# __💫 About Me:__<img align="right" alt="coding" width="300" style="border-radius:20px;  " src="https://i.gifer.com/6M8G.gif">
+# __💫 About Me:__
+<img align="right" alt="coding" width="300" style="border-radius:20px;  " src="./images/comp.gif">
 🌱 I’m currently learning Next.Js<br>💬 Ask me about MERN stack<br>⚡ Fun fact: I prefer tabs over spaces
 
 # __💻 Tech Stack:__
@@ -16,4 +17,3 @@
 # __📊 GitHub Stats:__
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhra8697&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
