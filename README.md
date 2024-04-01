@@ -1,10 +1,8 @@
 <p align="center"><img width="100%" alt="Hello, I'm Shubhra. I do open source!" src="./images/Pink & Blue Futuristic Gaming Channel Youtube Intro.gif" /></p>
 
-<img align="right" alt="coding" width="300" style="border-radius:20px;  " src="https://i.gifer.com/6M8G.gif">
-
-
-# __💫 About Me:__
+# __💫 About Me:__<img align="right" alt="coding" width="300" style="border-radius:20px;  " src="https://i.gifer.com/6M8G.gif">
 🌱 I’m currently learning Next.Js<br>💬 Ask me about MERN stack<br>⚡ Fun fact: I prefer tabs over spaces
+
 # __💻 Tech Stack:__
 ### __Languages__
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
