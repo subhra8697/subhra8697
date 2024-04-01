@@ -1,7 +1,7 @@
-<p align="center"><img width="100%" alt="Hello, I'm Shubhra. I do open source!" src="./images/bannerImage.gif" /></p>
+![Header](./images/bannerImage.gif)
 
 # __💫 About Me:__
-<img align="right" alt="coding" width="300" style="border-radius:20px;  " src="./images/comp.gif">
+<img align="right" alt="coding" width="100" style="border-radius:10px;  " src="./images/comp.gif">
 🌱 I’m currently learning Next.Js<br>💬 Ask me about MERN stack<br>⚡ Fun fact: I prefer tabs over spaces
 
 # __💻 Tech Stack:__
