@@ -17,3 +17,9 @@
 # __📊 GitHub Stats:__
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhra8697&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <h1 align="left" style="font-weight:bold;">My Contributions: </h1>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/subhra8697/subhra8697/blob/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
